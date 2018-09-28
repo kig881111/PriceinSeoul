@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:permission_handler] C:\PriceinSeoul\build\permission_handler\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:geolocator] C:\PriceinSeoul\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\a3e1cec1dd1a0e15e81e85be49fab6a6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\922f7b9e636df72873b020a8c5833bb6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d7e947eb71cb62b43bdf5341df2629ee\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\68c1ec91a19ec8391c1ba0bb81e370d9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4e3ca5c1761ac36d554e33fc9bad6df8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a66948d3eb731c9befe566cc80425380\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c1345aac9bd883f03890045ad299512e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0dc24f0a9ea6650535064cee224d0c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\92d6046c92895c9c8fbe0704d44139a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fb6f29d83e184706b336e2215b65070f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\356009d391ca16da5e720464a7587f06\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffe03b7a7a5db78794f45ca18e49bb8a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ea879bbea272d59ed74d4d7d0977c0cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0a62b8da4247923abade34d95ba88e87\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\a3e1cec1dd1a0e15e81e85be49fab6a6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\a3e1cec1dd1a0e15e81e85be49fab6a6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\922f7b9e636df72873b020a8c5833bb6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\922f7b9e636df72873b020a8c5833bb6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d7e947eb71cb62b43bdf5341df2629ee\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d7e947eb71cb62b43bdf5341df2629ee\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\68c1ec91a19ec8391c1ba0bb81e370d9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\68c1ec91a19ec8391c1ba0bb81e370d9\AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:17:9-37
+	android:icon
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#com.example.priceinseoul.MainActivity
+ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+MERGED from [:permission_handler] C:\PriceinSeoul\build\permission_handler\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\PriceinSeoul\build\permission_handler\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\PriceinSeoul\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\PriceinSeoul\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\a3e1cec1dd1a0e15e81e85be49fab6a6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\a3e1cec1dd1a0e15e81e85be49fab6a6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\922f7b9e636df72873b020a8c5833bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\922f7b9e636df72873b020a8c5833bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d7e947eb71cb62b43bdf5341df2629ee\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d7e947eb71cb62b43bdf5341df2629ee\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\68c1ec91a19ec8391c1ba0bb81e370d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\68c1ec91a19ec8391c1ba0bb81e370d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4e3ca5c1761ac36d554e33fc9bad6df8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4e3ca5c1761ac36d554e33fc9bad6df8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a66948d3eb731c9befe566cc80425380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a66948d3eb731c9befe566cc80425380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c1345aac9bd883f03890045ad299512e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c1345aac9bd883f03890045ad299512e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0dc24f0a9ea6650535064cee224d0c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0dc24f0a9ea6650535064cee224d0c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\92d6046c92895c9c8fbe0704d44139a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\92d6046c92895c9c8fbe0704d44139a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fb6f29d83e184706b336e2215b65070f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fb6f29d83e184706b336e2215b65070f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\356009d391ca16da5e720464a7587f06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\356009d391ca16da5e720464a7587f06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffe03b7a7a5db78794f45ca18e49bb8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ffe03b7a7a5db78794f45ca18e49bb8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ea879bbea272d59ed74d4d7d0977c0cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ea879bbea272d59ed74d4d7d0977c0cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0a62b8da4247923abade34d95ba88e87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0a62b8da4247923abade34d95ba88e87\AndroidManifest.xml:20:5-44
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\PriceinSeoul\android\app\src\main\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\PriceinSeoul\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:9:13-92
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:geolocator] C:\PriceinSeoul\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:geolocator] C:\PriceinSeoul\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:geolocator] C:\PriceinSeoul\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:geolocator] C:\PriceinSeoul\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:8:22-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e19f99f1d39ed9310cc9a9756ab03530\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\68c1ec91a19ec8391c1ba0bb81e370d9\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\68c1ec91a19ec8391c1ba0bb81e370d9\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\68c1ec91a19ec8391c1ba0bb81e370d9\AndroidManifest.xml:24:13-58

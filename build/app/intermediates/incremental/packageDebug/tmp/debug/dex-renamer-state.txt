@@ -1,0 +1,4 @@
+#Fri Sep 28 10:10:40 KST 2018
+base.0=C\:\\PriceinSeoul\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
